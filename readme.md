@@ -10,7 +10,7 @@ Autowalk is a windows-only program to enable autowalking in games that do not im
 ## Usage
 
 - Run autowalk.exe, ignore windows smartscreen to make it work. The code is here for you to review it is legit and it is not a malware.
-- Double-tap the ALT key to start sendin 'W' presses to the game, a single-tap will stop the autowalk. If you wish to change the interval and the trigger key check [Settings](#settings)
+- Double-tap the ALT key to start sending 'W' presses to the game, a single-tap will stop the autowalk. If you wish to change the interval and the trigger key check [Settings](#settings)
 
 ## Settings 
 Use autowalk.exe -h to see the settings and set the parameters.
